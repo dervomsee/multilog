@@ -1,0 +1,19 @@
+{
+  "name":"MultiLog",
+  "description":"Library that provides a unified interface to send debugging information to a serial interface or/and a UDP destination (broadcast or unicast).",
+  "keywords":"udp,logging,iot,wifi,debugging",
+  "authors":
+  {
+    "name": "Cornelius Wild",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/dervomsee/multilog.git"
+  },
+  "version": "0.0.0",
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32"],
+  "license": "MIT"
+}
